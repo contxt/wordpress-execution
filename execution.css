@@ -1,0 +1,31 @@
+#wpadminbar .execution-warning {
+  font-weight: bolder;
+}
+
+#wpadminbar #wp-admin-bar-execution .ab-icon:before {
+  content: "\f348";
+  top: 2px;
+}
+
+@media screen and (max-width: 782px) {
+  #wp-toolbar>ul>li,
+  #wpadminbar #wp-admin-bar-user-actions.ab-submenu .avatar {
+    display: block;
+  }
+
+  #wpadminbar .execution-full {
+    display: none;
+  }
+
+  #wpadminbar #wp-admin-bar-execution .ab-icon:before {
+    top: 0;
+    line-height: 48px;
+    height: 46px;
+    text-align: center;
+    width: 52px;
+    display: block;
+    content: " ";
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+}

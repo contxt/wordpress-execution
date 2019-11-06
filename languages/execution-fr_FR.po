@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Execution\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-03 06:23+0000\n"
+"PO-Revision-Date: 2017-12-03 07:53+0000\n"
+"Last-Translator: User <user@domain.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: execution.php:30
+msgid "Execution time"
+msgstr "Temps d'exécution"
+
+#. Name of the plugin
+msgid "Execution"
+msgstr "Exécution"
+
+#. Description of the plugin
+msgid "Shows in milliseconds the time to execute/load page in Admin section."
+msgstr ""
+"Affiche en millisecondes le temps d'exécution / chargement de la page dans "
+"la section Admin."
+
+#. Author of the plugin
+msgid "contxt"
+msgstr "contxt"
